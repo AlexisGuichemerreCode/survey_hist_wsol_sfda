@@ -1,0 +1,9 @@
+__pycache__
+exps/*
+source_models/*
+pretrained-imgnet/*
+.vscode/*
+.vscode/launch.json
+dlib/crf/crfwrapper/*
+LOG.txt
+exp_final/*
