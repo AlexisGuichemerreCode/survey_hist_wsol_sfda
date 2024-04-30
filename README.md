@@ -49,7 +49,6 @@ Please create a github issue.
 * [Requirements](#re2q)
 * [Datasets](#datasets)
 * [Run code](#run)
-* [Notes](#notes)
 
 
 
