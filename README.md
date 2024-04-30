@@ -56,7 +56,7 @@ Please create a github issue.
 #### <a name='view'> Method</a>:
 <!-- <img src="doc/view.png" alt="view" width="600"> -->
 
-<img src="doc/Taxonomy_SFUDA.pdf" alt="taxonomy" width="600">
+<img src="doc/taxo.png" alt="taxonomy" width="600">
 
 Implemented WSOL methods:
 - GAP
