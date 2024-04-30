@@ -1,4 +1,4 @@
-# [Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology]
+# [Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology][CVPRw 2024]
 
 by **Alexis Guichemerre<sup>1</sup>, Soufiane Belharbi<sup>1</sup>, Tsiry Mayet<sup>2</sup>,
 Shakeeb Murtaza<sup>1</sup>, Pourya Shamsolmoali<sup>3</sup>,Luke McCaffrey<sup>4</sup>, Eric Granger<sup>1</sup>**
