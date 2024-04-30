@@ -1,9 +1,47 @@
-### Pytorch code for WSOL and SFDA.
+# [Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology]
 
-Main paper:
+by **Alexis Guichemerre<sup>1</sup>, Soufiane Belharbi<sup>1</sup>, Tsiry Mayet<sup>2</sup>,
+Shakeeb Murtaza<sup>1</sup>, Pourya Shamsolmoali<sup>3</sup>,Luke McCaffrey<sup>4</sup>, Eric Granger<sup>1</sup>**
 
-`Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for
-Histology`.
+<sup>1</sup> LIVIA, Dept. of Systems Engineering, ÉTS, Montreal, Canada
+<br/>
+<sup>2</sup> Dept. of Health, Kinesiology \& Applied Physiology, Concordia University, Montreal, Canada
+<br/>
+<sup>2</sup> LITIS UR 4108, F-746000, INSA Rouen Normandie, France
+<br/>
+<sup>2</sup> SEECS, Queen’s University Belfast, UK
+<br/>
+<sup>2</sup> Goodman Cancer Research Centre, Dept. of Oncology, McGill University, Montreal, Canada
+
+## Abstract
+
+Given the emergence of deep learning, digital pathology
+has gained popularity for cancer diagnosis based on his-
+tology images. Deep weakly supervised object localization
+(WSOL) models can be trained to classify histology images
+according to cancer grade and identify regions of interest
+(ROIs) for interpretation, using inexpensive global image-
+class annotations. A WSOL model initially trained on some
+labeled source image data can be adapted using unlabeled
+target data in cases of significant domain shifts caused by
+variations in staining, scanners, and cancer type. In this pa-
+per, we focus on source-free (unsupervised) domain adap-
+tation (SFDA), a challenging problem where a pre-trained
+source model is adapted to a new target domain without
+using any source domain data for privacy and efficiency
+reasons. SFDA of WSOL models raises several challenges
+in histology, most notably because they are not intended to
+adapt for both classification and localization tasks. In this
+paper, 4 state-of-the-art SFDA methods, each one repre-
+sentative of a main SFDA family, are compared for WSOL
+in terms of classification and localization accuracy. They
+are the SFDA-Distribution Estimation, Source HypOthesis
+Transfer, Cross-Domain Contrastive Learning, and Adap-
+tively Domain Statistics Alignment. Experimental results on
+the challenging Glas (smaller, breast cancer) and Came-
+lyon16 (larger, colon cancer) histology datasets indicate
+that these SFDA methods typically perform poorly for local-
+ization after adaptation when optimized for classification.
 
 ### Issues:
 Please create a github issue.
