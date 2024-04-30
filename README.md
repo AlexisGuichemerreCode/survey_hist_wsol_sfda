@@ -46,7 +46,6 @@ Please create a github issue.
 
 ### Content:
 * [View](#view)
-<!-- * [Results](#results) -->
 * [Requirements](#re2q)
 * [Datasets](#datasets)
 * [Run code](#run)
