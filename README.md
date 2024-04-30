@@ -5,13 +5,11 @@ Shakeeb Murtaza<sup>1</sup>, Pourya Shamsolmoali<sup>3</sup>,Luke McCaffrey<sup>
 
 <sup>1</sup> LIVIA, Dept. of Systems Engineering, ÉTS, Montreal, Canada
 <br/>
-<sup>2</sup> Dept. of Health, Kinesiology \& Applied Physiology, Concordia University, Montreal, Canada
-<br/>
 <sup>2</sup> LITIS UR 4108, F-746000, INSA Rouen Normandie, France
 <br/>
-<sup>2</sup> SEECS, Queen’s University Belfast, UK
+<sup>3</sup> SEECS, Queen’s University Belfast, UK
 <br/>
-<sup>2</sup> Goodman Cancer Research Centre, Dept. of Oncology, McGill University, Montreal, Canada
+<sup>4</sup> Goodman Cancer Research Centre, Dept. of Oncology, McGill University, Montreal, Canada
 
 ## Abstract
 
