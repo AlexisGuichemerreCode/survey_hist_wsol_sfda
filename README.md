@@ -1,8 +1,5 @@
-# [Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology][CVPRw 2024]
-
-by **Alexis Guichemerre<sup>1</sup>, Soufiane Belharbi<sup>1</sup>, Tsiry Mayet<sup>2</sup>,
-Shakeeb Murtaza<sup>1</sup>, Pourya Shamsolmoali<sup>3</sup>,Luke McCaffrey<sup>4</sup>, Eric Granger<sup>1</sup>**
-
+# [Source-Free Domain Adaptation of Weakly-Supervised Object Localization Models for Histology (CVPRw 2024)](https://arxiv.org/pdf/2404.19113.pdf)
+by **Alexis Guichemerre<sup>1</sup>, Soufiane Belharbi<sup>1</sup>, Tsiry Mayet<sup>2</sup>, Shakeeb Murtaza<sup>1</sup>, Pourya Shamsolmoali<sup>3</sup>, Luke McCaffrey<sup>4</sup>, Eric Granger<sup>1</sup>**
 <sup>1</sup> LIVIA, Dept. of Systems Engineering, ÉTS, Montreal, Canada
 <br/>
 <sup>2</sup> LITIS UR 4108, F-746000, INSA Rouen Normandie, France
